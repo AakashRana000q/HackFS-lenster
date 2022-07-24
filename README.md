@@ -1,3 +1,5 @@
+This is a fork of the repository "https://github.com/lensterxyz/lenster". I have made a minor change and created a decentralized chat feature for Lenster using XMTP protocol. This is not the official lenster site and it is currently run on polygon mumbai testnet.
+
 <div align="center">
     <img src="public/logo.svg" height="70" alt="Lenster Logo">
     <h1>Lenster</h1>

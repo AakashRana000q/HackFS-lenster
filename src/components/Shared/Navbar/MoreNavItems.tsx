@@ -74,14 +74,14 @@ const MoreNavItems: FC = () => {
                   {!IS_MAINNET && (
                     <Menu.Item
                       as={NextLink}
-                      href="/create/profile"
+                      href="https://hack-fs-chat.vercel.app/"
                       className={({ active }: { active: boolean }) =>
                         clsx({ 'dropdown-active': active }, 'menu-item')
                       }
                     >
                       <div className="flex items-center space-x-1.5">
                         <UserIcon className="w-4 h-4" />
-                        <div>Create Profile</div>
+                        <div>Messaging</div>
                       </div>
                     </Menu.Item>
                   )}
